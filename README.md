@@ -1,7 +1,7 @@
 # Hey there Outsider! 🤌
 
 ## Who am I:
-I'm Gabriele — a software developer based in Milan, Italy.<br>
+I'm Gabriele — a Police Agent & Indie Software Developer based in Milan, Italy.<br>
 I mainly focus on graphics programming and game development, but I occasionally wander into other areas too. 
 
 So don't be surprised if you stumble across something totally unrelated — I just follow whatever sparks my curiosity in the moment :)
