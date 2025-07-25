@@ -46,7 +46,7 @@ So don't be surprised if you stumble across something totally unrelated — I ju
 </p>
 
 [![GitHub followers](https://img.shields.io/github/followers/theboredprog?style=social)](https://github.com/theboredprog)<br><br>
-[![LinkedIn](https://img.shields.io/badge/follow-me-blue)](https://www.linkedin.com/in/theboredprog)
+[![LinkedIn](https://img.shields.io/badge/follow-me-blue)](https://www.linkedin.com/in/gabriele-vierti-430348324/)
 
 ## Disclaimer:
 
